@@ -28,4 +28,4 @@ an efficient prototyping tool. SOFA's advanced software architecture allows:
 INSTALLATION
 
 For up-to-date instructions, please refer to the SOFA documentation:
-  https://www.sofa-framework.org/community/doc/
+https://www.sofa-framework.org/community/doc/
